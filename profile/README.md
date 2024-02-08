@@ -1,2 +1,2 @@
 # Link - Game Engine
-Link is a game engine that runs on top of THREE.js to create content that can be accessed in any browser.
+Link is a game engine that runs on top of THREE.js to create content that can be accessed in any browser. It enables users to import their own scripts and code complex behaviours, providing common features that are expected to be found in such software - like event handling, scene switching, physics simulation, collision detection, layer distinction and a full-fledged API to interact with specific methods of the engine.
